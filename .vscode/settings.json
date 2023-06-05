@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "\"*.extension\"": "\"js\"",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "stdio.h": "c",
+        "iostream": "cpp",
+        "fstream": "cpp",
+        "istream": "cpp",
+        "iosfwd": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "enabled",
+    "cmake.configureOnOpen": true
+}
